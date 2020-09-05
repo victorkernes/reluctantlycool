@@ -18,7 +18,7 @@ export default function Home() {
         <h1 className={styles.title}>Reluctantly Cool</h1>
 
         <p className={styles.description}>
-          Discovering things we want to keep from everyone else
+          Discovering things we want to keep from everyone else.
         </p>
       </main>
     </div>
